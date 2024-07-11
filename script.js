@@ -1,5 +1,5 @@
 const files = [
-    'texts/90.85.151.58 Orange Server, Using RapidLogic httpd 1.1 - SCAN MADE 11 JULY 2024.txt',
+    'texts/90.85.151.58_Orange_Server_Using_RapidLogic_httpd_1.1_-_SCAN_MADE_11_JULY_2024.txt',
 
     // ajoutez ici tous les autres fichiers texte
 ];
