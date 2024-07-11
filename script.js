@@ -1,6 +1,6 @@
 const files = [
-    'texts/file1.txt',
-    'texts/file2.txt',
+    'texts/90.85.151.58 Orange Server, Using RapidLogic httpd 1.1 - SCAN MADE 11 JULY 2024.txt',
+
     // ajoutez ici tous les autres fichiers texte
 ];
 
