@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recherche de Fichiers Texte</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="search-container">
+        <h1>Recherche de Fichiers Texte</h1>
+        <input type="text" id="searchInput" placeholder="Recherche...">
+        <button onclick="searchFiles()">Rechercher</button>
+        <input type="file" id="fileInput" multiple accept=".txt" style="margin-top: 10px;">
+    </div>
+    <div id="results"></div>
+    <script src="script.js"></script>
+</body>
+</html>
